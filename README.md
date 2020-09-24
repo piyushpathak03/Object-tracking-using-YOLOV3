@@ -4,8 +4,6 @@
 <img
 src = "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBHC8oSbf3Jq0MDoLV1PVfhrFVVPN-ptjAdQ&usqp=CAU" /> 
 
-## Refer my blog for detail explanation
-## 👉 [YOLO : Real Time Object Detection](https://capablemachine.com/2020/07/21/yolo-model/)
 ### Detecting Objects on Image with OpenCV deep learning library
 
 Algorithm:
@@ -79,4 +77,23 @@ To capture video, it is needed to create VideoCapture object.
 Its argument can be camera's index or name of video file.
 Camera index is usually 0 for built-in one.
 Try to select other cameras by passing 1, 2, 3, etc.
+
+
+## About me
+
+**Piyush Pathak**
+
+[**PORTFOLIO**](https://anirudhrapathak3.wixsite.com/piyush)
+
+[**GITHUB**](https://github.com/piyushpathak03)
+
+[**BLOG**](https://medium.com/@piyushpathak03)
+
+
+# 📫 Follw me: 
+
+[![Linkedin Badge](https://img.shields.io/badge/-PiyushPathak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyushpathak03/)](https://www.linkedin.com/in/piyushpathak03/)
+
+<p  align="right"><img height="100" src = "https://media.giphy.com/media/l3URDstnIjBNY7rwLB/giphy.gif"></p>
+
 
